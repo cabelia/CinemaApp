@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cinema Catalogue</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_series">Series</string>
+    <string name="tvlanguage">Language :</string>
+    <string name="runtime">Runtime</string>
+    <string name="overview">Overview</string>
+    <string name="information">Information</string>
+    <string name="tvstars">Stars </string>
+    <string name="stars">Stars</string>
+    <string name="tvdirector">Director </string>
+    <string name="tvwriter">Writer </string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="tvproduction">Production </string>
+    <string name="production">Production</string>
+    <string name="title">Title</string>
+    <string name="tvrating">Rating </string>
+    <string name="rating">Rating</string>
+    <string name="tvruntime">Runtime :</string>
+    <string name="language">Language</string>
+    <string name="tvrelease">Release :</string>
+    <string name="release">Release</string>
+    <string name="todo">TODO</string>
+    <string name="genre">Genre</string>
+    <string name="tvgenre">Genre :</string>
+    <string name="top_cast">Top Cast</string>
+    <string name="tvepisodes">Episodes :</string>
+    <string name="epiodes">Epiodes</string>
+    <string name="tvproducer">Producer </string>
+    <string name="producer">Producer</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="imagefilm">imageFilm</string>
+    <string name="favorites">favorites</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="cinema">Cinema</string>
+</resources>
